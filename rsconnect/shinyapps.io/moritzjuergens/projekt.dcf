@@ -1,0 +1,13 @@
+name: projekt
+title: projekt
+username:
+account: moritzjuergens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5446921
+bundleId: 5471761
+url: https://moritzjuergens.shinyapps.io/projekt/
+when: 1642256511.03746
+lastSyncTime: 1642256511.03748
+asMultiple: FALSE
+asStatic: FALSE
